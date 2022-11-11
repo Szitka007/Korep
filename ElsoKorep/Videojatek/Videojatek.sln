@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Videojatek", "Videojatek\Videojatek.csproj", "{32EDDEB4-7A2A-4F71-86C1-C6B66A2335C8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{32EDDEB4-7A2A-4F71-86C1-C6B66A2335C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32EDDEB4-7A2A-4F71-86C1-C6B66A2335C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32EDDEB4-7A2A-4F71-86C1-C6B66A2335C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32EDDEB4-7A2A-4F71-86C1-C6B66A2335C8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {309F5561-6488-42AB-BDBC-B3C210DE2F3D}
+	EndGlobalSection
+EndGlobal

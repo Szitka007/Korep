@@ -1,0 +1,8 @@
+C:\Users\bence.szitanyi\OneDrive - Óbudai egyetem\SZTF_Korep\Első korep\Feladatok\Videojatek\Videojatek\bin\Debug\Videojatek.exe.config
+C:\Users\bence.szitanyi\OneDrive - Óbudai egyetem\SZTF_Korep\Első korep\Feladatok\Videojatek\Videojatek\bin\Debug\Videojatek.exe
+C:\Users\bence.szitanyi\OneDrive - Óbudai egyetem\SZTF_Korep\Első korep\Feladatok\Videojatek\Videojatek\bin\Debug\Videojatek.pdb
+C:\Users\bence.szitanyi\OneDrive - Óbudai egyetem\SZTF_Korep\Első korep\Feladatok\Videojatek\Videojatek\obj\Debug\Videojatek.csproj.AssemblyReference.cache
+C:\Users\bence.szitanyi\OneDrive - Óbudai egyetem\SZTF_Korep\Első korep\Feladatok\Videojatek\Videojatek\obj\Debug\Videojatek.csproj.SuggestedBindingRedirects.cache
+C:\Users\bence.szitanyi\OneDrive - Óbudai egyetem\SZTF_Korep\Első korep\Feladatok\Videojatek\Videojatek\obj\Debug\Videojatek.csproj.CoreCompileInputs.cache
+C:\Users\bence.szitanyi\OneDrive - Óbudai egyetem\SZTF_Korep\Első korep\Feladatok\Videojatek\Videojatek\obj\Debug\Videojatek.exe
+C:\Users\bence.szitanyi\OneDrive - Óbudai egyetem\SZTF_Korep\Első korep\Feladatok\Videojatek\Videojatek\obj\Debug\Videojatek.pdb

@@ -1,0 +1,8 @@
+C:\Users\bence.szitanyi\OneDrive - Óbudai egyetem\SZTF_Korep\Első korep\Feladatok\Kartyas\Kartyas\bin\Debug\Kartyas.exe.config
+C:\Users\bence.szitanyi\OneDrive - Óbudai egyetem\SZTF_Korep\Első korep\Feladatok\Kartyas\Kartyas\bin\Debug\Kartyas.exe
+C:\Users\bence.szitanyi\OneDrive - Óbudai egyetem\SZTF_Korep\Első korep\Feladatok\Kartyas\Kartyas\bin\Debug\Kartyas.pdb
+C:\Users\bence.szitanyi\OneDrive - Óbudai egyetem\SZTF_Korep\Első korep\Feladatok\Kartyas\Kartyas\obj\Debug\Kartyas.csproj.AssemblyReference.cache
+C:\Users\bence.szitanyi\OneDrive - Óbudai egyetem\SZTF_Korep\Első korep\Feladatok\Kartyas\Kartyas\obj\Debug\Kartyas.csproj.SuggestedBindingRedirects.cache
+C:\Users\bence.szitanyi\OneDrive - Óbudai egyetem\SZTF_Korep\Első korep\Feladatok\Kartyas\Kartyas\obj\Debug\Kartyas.csproj.CoreCompileInputs.cache
+C:\Users\bence.szitanyi\OneDrive - Óbudai egyetem\SZTF_Korep\Első korep\Feladatok\Kartyas\Kartyas\obj\Debug\Kartyas.exe
+C:\Users\bence.szitanyi\OneDrive - Óbudai egyetem\SZTF_Korep\Első korep\Feladatok\Kartyas\Kartyas\obj\Debug\Kartyas.pdb
