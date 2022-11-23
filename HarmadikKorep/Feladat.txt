@@ -1,0 +1,21 @@
+1. Person osztály elkészítése az alábbi paraméterekkel:
+	Név -> Publikusan olvasható, privátként állítható. Szöveges adat.
+	Születési dátum -> Publikusan olvasható, privátként állítható. DátumIdő.
+	Irányítószám -> Publikusan olvasható, privátként állítható. Egész szám
+	Van e munkája -> Publikusan olvasható, privátként állítható. Igaz/Hamis
+	
+2. Konstruktor elkészítése kétféle képpen:
+	-Paraméteresen, ilyenkor a megadott paramétereket állítsa a tulajdonságoknak.
+	-Üres konstruktor, a forrásfájl egy sorából töltse fel az értékeket. (A sorban az adatok ;-vel vannak tagolva)
+	
+3. Írjuk felül a ToString metódust a következőképpen.
+	-A személy adatait adja vissza egy stringben vesszővel elválasztva
+	
+4. Person típusból tömb létrehozása a fájl értékeivel.
+
+5. Számoljuk meg, hány dolgozó és hány munkanélküli van. Mindkettőre külön hozzunk létre saját metódusokat.
+
+6. Hány évesek az adott emberek. Írjuk ki névvel együtt, ki hány éves.
+
+7. Írjuk ki egy új fájlba a dolgozó emberek adatait, majd egy külön fájlba a munkanélküliek adatait olyan formában, ahogyan megkaptuk
+
